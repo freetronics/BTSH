@@ -1,8 +1,8 @@
 Freetronics Bluetooth Shield
 ============================
 Copyright 2014 Freetronics Pty Ltd  
-Freetronics site:  <www.freetronics.com>  
-Freetronics email: <info@freetronics.com>  
+Freetronics site:  www.freetronics.com  
+Freetronics email: info@freetronics.com  
 
 A Bluetooth shield for the Arduino and other microcontroller boards
 based on the same header format, such as the Freetronics Eleven.
